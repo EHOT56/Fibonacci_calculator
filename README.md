@@ -1,0 +1,1 @@
+Šī programma ir konsoles lietotne darbam ar Fibonači skaitļiem. Tā ļauj aprēķināt N-to Fibonači skaitli, pārbaudīt, vai skaitlis pieder Fibonači virknei, ģenerēt virkni līdz noteiktam ierobežojumam un aprēķināt pirmo N Fibonači skaitļu summu.
