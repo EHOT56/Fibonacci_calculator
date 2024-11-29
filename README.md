@@ -1,4 +1,4 @@
-Fibonacci Kalkulators
+## Fibonacci Kalkulators
 Algoritma Mērķis un Darbība
 
 Algoritms strādā ar Fibonači virkni – matemātisku secību, kur katrs skaitlis ir divu iepriekšējo skaitļu summa (ar sākotnējām vērtībām 0 un 1). Fibonači virkne tiek plaši izmantota daudzās jomās, piemēram, datorzinātnēs, mākslā, finanšu analīzē un dabas procesos, kur tā atspoguļo dažādas augšanas un izplatības likumsakarības.
@@ -26,14 +26,14 @@ Praktiskie Pielietojumi
 
 Izmantotie Principi un Loģika
 
-Skaitļu ģenerēšana
+- Skaitļu ģenerēšana
 (Fibonači skaitļi tiek aprēķināti iteratīvā veidā, kas ir ātrs un efektīvs, salīdzinot ar rekursīvu pieeju.)
 
-Datu validācija
+- Datu validācija
 (Algoritms pārbauda, vai ievadītie dati ir derīgi (piemēram, ne-negatīvi skaitļi), lai izvairītos no kļūdām.)
 
-Sekvences analīze
+- Sekvences analīze
 (Skaitļu virknes īpašības tiek analizētas, lai pārbaudītu, vai konkrēts skaitlis pieder Fibonači virknei vai aprēķinātu tuvākos elementus.)
 
-Elastīga lietošana
+- Elastīga lietošana
 (Algoritms paredzēts gan mācību nolūkiem, gan praktiskiem pielietojumiem dažādās nozarēs.)
