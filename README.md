@@ -26,14 +26,14 @@ Praktiskie Pielietojumi
 
 Izmantotie Principi un Loģika
 
-  Skaitļu ģenerēšana
-    Fibonači skaitļi tiek aprēķināti iteratīvā veidā, kas ir ātrs un efektīvs, salīdzinot ar rekursīvu pieeju.
+Skaitļu ģenerēšana
+Fibonači skaitļi tiek aprēķināti iteratīvā veidā, kas ir ātrs un efektīvs, salīdzinot ar rekursīvu pieeju.
 
-  Datu validācija
-    Algoritms pārbauda, vai ievadītie dati ir derīgi (piemēram, ne-negatīvi skaitļi), lai izvairītos no kļūdām.
+Datu validācija
+Algoritms pārbauda, vai ievadītie dati ir derīgi (piemēram, ne-negatīvi skaitļi), lai izvairītos no kļūdām.
 
-  Sekvences analīze
-    Skaitļu virknes īpašības tiek analizētas, lai pārbaudītu, vai konkrēts skaitlis pieder Fibonači virknei vai aprēķinātu tuvākos elementus.
+Sekvences analīze
+Skaitļu virknes īpašības tiek analizētas, lai pārbaudītu, vai konkrēts skaitlis pieder Fibonači virknei vai aprēķinātu tuvākos elementus.
 
-  Elastīga lietošana
-    Algoritms paredzēts gan mācību nolūkiem, gan praktiskiem pielietojumiem dažādās nozarēs.
+Elastīga lietošana
+Algoritms paredzēts gan mācību nolūkiem, gan praktiskiem pielietojumiem dažādās nozarēs.
